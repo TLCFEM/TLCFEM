@@ -1,6 +1,6 @@
 
-* ❎ an engineer
-* ✅ a converter (tea ➡ code)
+* ❎ engineer
+* ✅ bug breeder
 
 I am interested in the following computational mechanics related topics:
 
