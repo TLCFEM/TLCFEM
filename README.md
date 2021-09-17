@@ -12,11 +12,17 @@ I am interested in the following computational mechanics related topics:
 6. constitutive modelling
 7. finite element formulation
 
-## Active Project
+## Active Projects
 
 [suanPan --- An Open Source, Parallel and Heterogeneous Finite Element Analysis Framework](https://github.com/TLCFEM/suanPan)
 
 Please feel free to contact me if you are interested in implementing your work on suanPan. I am happy to collaborate in this regard.
+
+## Past Projects
+
+[PB3D --- A Preprocessor for PB3D Dynamic Analysis For Timber Structures](https://github.com/TLCFEM/PB3D)
+
+If you are using the PB3D program developed by Dr. Minghao Li, this project provides a simple GUI for visualisation of the model.
 
 ## Research
 
