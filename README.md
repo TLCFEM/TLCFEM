@@ -22,7 +22,7 @@ Please feel free to contact me if you are interested in implementing your work o
 
 ### Book
 
-[Constitutive Modelling Cookbook](https://github.com/TLCFEM/constitutive-modelling-cookbook)
+[Constitutive Modelling Cookbook](https://github.com/TLCFEM/constitutive-modelling-cookbook) [PDF](https://github.com/TLCFEM/constitutive-modelling-cookbook/releases/download/latest/COOKBOOK.pdf)
 
 A reference book on constitutive modelling.   
 
