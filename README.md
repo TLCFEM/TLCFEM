@@ -14,9 +14,17 @@ I am interested in the following computational mechanics related topics:
 
 ## Active Projects
 
+### Software
+
 [suanPan --- An Open Source, Parallel and Heterogeneous Finite Element Analysis Framework](https://github.com/TLCFEM/suanPan)
 
 Please feel free to contact me if you are interested in implementing your work on suanPan. I am happy to collaborate in this regard.
+
+### Book
+
+[Constitutive Modelling Cookbook](https://github.com/TLCFEM/constitutive-modelling-cookbook)
+
+A reference book on constitutive modelling.   
 
 ## Past Projects
 
@@ -30,9 +38,9 @@ If you are using the PB3D program developed by Dr. Minghao Li, this project prov
 
 The following repositories contain source code and example models of some publications. Please feel free to cite and use graphs, tables, etc. when necessary.
 
-1. [gcmq-ijnme](https://github.com/TLCFEM/gcmq-ijnme) A new drilling quadrilateral membrane element with high coarse-mesh accuracy using a modified Hu-Washizu principle [10.1002/nme.6066](https://doi.org/10.1002/nme.6066)
-2. [application-es](https://github.com/TLCFEM/application-es) Numerical evaluations of a novel membrane element in simulations of reinforced concrete shear walls [10.1016/j.engstruct.2019.109592](https://doi.org/10.1016/j.engstruct.2019.109592)
-3. [response-history-application-es](https://github.com/TLCFEM/response-history-application-es) Numerical evaluations of a novel membrane element in response history analysis of reinforced concrete shear walls [10.1016/j.engstruct.2020.110760](https://doi.org/10.1016/j.engstruct.2020.110760)
+1. [gcmq-ijnme](https://github.com/TLCFEM/gcmq-ijnme) A new drilling quadrilateral membrane element with high coarse-mesh accuracy using a modified Hu-Washizu principle [doi:10.1002/nme.6066](https://doi.org/10.1002/nme.6066)
+2. [application-es](https://github.com/TLCFEM/application-es) Numerical evaluations of a novel membrane element in simulations of reinforced concrete shear walls [doi:10.1016/j.engstruct.2019.109592](https://doi.org/10.1016/j.engstruct.2019.109592)
+3. [response-history-application-es](https://github.com/TLCFEM/response-history-application-es) Numerical evaluations of a novel membrane element in response history analysis of reinforced concrete shear walls [doi:10.1016/j.engstruct.2020.110760](https://doi.org/10.1016/j.engstruct.2020.110760)
 
 ### ORCID
 
