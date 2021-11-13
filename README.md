@@ -16,21 +16,19 @@ I am interested in the following computational mechanics related topics:
 
 ### Software
 
-[suanPan --- An Open Source, Parallel and Heterogeneous Finite Element Analysis Framework](https://github.com/TLCFEM/suanPan)
+1. [suanPan](https://github.com/TLCFEM/suanPan) An Open Source, Parallel and Heterogeneous Finite Element Analysis Framework
 
-Please feel free to contact me if you are interested in implementing your work on suanPan. I am happy to collaborate in this regard.
+  Please feel free to contact me if you are interested in implementing your research work on suanPan. I am happy to collaborate in this regard.
+
+2. [PB3D](https://github.com/TLCFEM/PB3D) A Preprocessor for PB3D Dynamic Analysis For Timber Structures
+
+  If you are using the PB3D program developed by Dr. Minghao Li, this project provides a simple GUI for visualisation of the model.
 
 ### Book
 
-[Constitutive Modelling Cookbook](https://github.com/TLCFEM/constitutive-modelling-cookbook) [PDF](https://github.com/TLCFEM/constitutive-modelling-cookbook/releases/download/latest/COOKBOOK.pdf)
+1. [Constitutive Modelling Cookbook](https://github.com/TLCFEM/constitutive-modelling-cookbook) A reference book on constitutive modelling.
 
-A reference book on constitutive modelling.   
-
-## Past Projects
-
-[PB3D --- A Preprocessor for PB3D Dynamic Analysis For Timber Structures](https://github.com/TLCFEM/PB3D)
-
-If you are using the PB3D program developed by Dr. Minghao Li, this project provides a simple GUI for visualisation of the model.
+  [PDF](https://github.com/TLCFEM/constitutive-modelling-cookbook/releases/download/latest/COOKBOOK.pdf) file is accessible.
 
 ## Research
 
