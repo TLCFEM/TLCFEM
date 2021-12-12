@@ -27,7 +27,7 @@ Check my [CV]() if you wish.
 
 2. [Damping Dolphin](https://github.com/TLCFEM/damping-dolphin) 🐬 A utility to visualise and generate parameter sets for use in the damping model.
 
-3. [PB3D](https://github.com/TLCFEM/PB3D) A Preprocessor for PB3D Dynamic Analysis For Timber Structures
+3. [PB3D](https://github.com/TLCFEM/PB3D) 🪵 A Preprocessor for PB3D Dynamic Analysis For Timber Structures
 
     If you are using the PB3D program developed by Dr. Minghao Li, this project provides a simple GUI for visualisation of the model.
 
