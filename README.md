@@ -13,14 +13,7 @@ I am interested in the following computational mechanics related topics:
 6. constitutive modelling
 7. finite element formulation
 
-Check my [CV]() if you wish.
-
-## ORCID
-
-<a href="https://orcid.org/0000-0002-4911-0230">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_64x64.png" width="14" height="14" />
-https://orcid.org/0000-0002-4911-0230
-</a>
+Check my [CV]() or [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_64x64.png" alt="ORCID logo" width="14"/>](https://orcid.org/0000-0002-4911-0230) if you wish.
 
 ## Software
 
@@ -42,7 +35,7 @@ https://orcid.org/0000-0002-4911-0230
 
 ## Publication Resources
 
-The following repositories contain source code and example models of some publications. Please feel free to cite and use graphs, tables, etc. when necessary.
+The following repositories contain source code and example models of some publications. Please feel free to cite and use graphs, tables, etc., when necessary.
 
 1. [gcmq-ijnme](https://github.com/TLCFEM/gcmq-ijnme) A new drilling quadrilateral membrane element with high coarse-mesh accuracy using a modified Hu-Washizu principle [doi:10.1002/nme.6066](https://doi.org/10.1002/nme.6066)
 2. [application-es](https://github.com/TLCFEM/application-es) Numerical evaluations of a novel membrane element in simulations of reinforced concrete shear walls [doi:10.1016/j.engstruct.2019.109592](https://doi.org/10.1016/j.engstruct.2019.109592)
