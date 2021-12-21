@@ -21,7 +21,7 @@ Check my [CV]() or [<img src="https://info.orcid.org/wp-content/uploads/2019/11/
 
     Please feel free to contact me if you are interested in implementing your research work on suanPan. I am happy to collaborate in this regard.
 
-2. [Damping Dolphin](https://github.com/TLCFEM/damping-dolphin) 🐬 A utility to visualise and generate parameter sets for use in the damping model.
+2. [Damping Dolphin](https://github.com/TLCFEM/damping-dolphin) 🐬 A utility to visualise and generate parameter sets for use in the damping model
 
 3. [PB3D](https://github.com/TLCFEM/PB3D) 🪵 A Preprocessor for PB3D Dynamic Analysis For Timber Structures
 
