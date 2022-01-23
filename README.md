@@ -13,7 +13,7 @@ I am interested in the following computational mechanics related topics:
 6. constitutive modelling
 7. finite element formulation
 
-Check my [CV]() or [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_64x64.png" alt="ORCID logo" width="14"/>](https://orcid.org/0000-0002-4911-0230) if you wish.
+Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_64x64.png" alt="ORCID logo" width="14"/>](https://orcid.org/0000-0002-4911-0230) if you wish.
 
 ## Software
 
