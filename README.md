@@ -33,7 +33,7 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
     [PDF](https://github.com/TLCFEM/constitutive-modelling-cookbook/releases/download/latest/COOKBOOK.pdf) file is accessible.
     
-2. [Introduction to Structural Steel](https://github.com/TLCFEM/introduction-to-structural-steel)
+2. [Introduction to Structural Steel](https://github.com/TLCFEM/introduction-to-structural-steel) A textbook on structural steel in accordance with the AU/NZ standards.
 
     [PDF](https://github.com/TLCFEM/introduction-to-structural-steel/releases/download/latest/INTRO.pdf) file is accessible.
 
