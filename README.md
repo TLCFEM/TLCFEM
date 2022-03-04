@@ -27,11 +27,15 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
     If you are using the PB3D program developed by Dr. Minghao Li, this project provides a simple GUI for visualisation of the model.
 
-## Book
+## Books
 
 1. [Constitutive Modelling Cookbook](https://github.com/TLCFEM/constitutive-modelling-cookbook) A reference book on constitutive modelling.
 
     [PDF](https://github.com/TLCFEM/constitutive-modelling-cookbook/releases/download/latest/COOKBOOK.pdf) file is accessible.
+    
+2. [Introduction to Structural Steel](https://github.com/TLCFEM/introduction-to-structural-steel)
+
+    [PDF](https://github.com/TLCFEM/introduction-to-structural-steel/releases/download/latest/INTRO.pdf) file is accessible.
 
 ## Publication Resources
 
