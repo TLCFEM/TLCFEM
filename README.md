@@ -1,4 +1,4 @@
-# Theodore Chang
+# ^Theodor(?:e?)\s[^ABD-Z]hang$
 
 * ❎ engineer
 * ✅ bug breeder
