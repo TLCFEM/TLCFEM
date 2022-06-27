@@ -1,4 +1,4 @@
-# ^(?:Dr\.\s)?Theodor(?:e)?\s[^ABD-Z]hang$
+# `^(?:Dr\.\s)?Theodor(?:e)?\s[^ABD-Z]hang$`
 
 * ❎ engineer
 * ✅ bug breeder
