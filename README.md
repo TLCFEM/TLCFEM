@@ -2,6 +2,9 @@
 
 * ❎ engineer
 * ✅ bug breeder
+    * 👍 early returner
+    * 👍 never nester
+    * 👍 one liner
 
 I am interested in the following computational mechanics related topics:
 
