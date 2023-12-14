@@ -28,9 +28,7 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
 3. [Alcongrator](https://github.com/TLCFEM/alcongrator) 〰 A utility to generate ground motion history based on given records
 
-4. [PB3D](https://github.com/TLCFEM/PB3D) 🪵 A Preprocessor for PB3D Dynamic Analysis For Timber Structures
-
-    If you are using the PB3D program developed by Dr. Minghao Li, this project provides a simple GUI for visualisation of the model.
+4. [VPMR](https://github.com/TLCFEM/vpmr) 🥷 C++/Python implementation of the VPMR algorithm
 
 ## Books
 
