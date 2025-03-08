@@ -32,6 +32,10 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
 5. [motion-base](https://github.com/TLCFEM/motion-base) 🌏 A ground motion database
 
+6. [ezp](https://github.com/TLCFEM/ezp) 🪢 lightweight C++ wrapper for selected ScaLAPACK solvers
+
+7. [msglc](https://github.com/TLCFEM/msglc) 🗜️ (de)serialize json objects with lazy/partial loading containers using msgpack
+
 ## Books
 
 1. [Constitutive Modelling Cookbook](https://github.com/TLCFEM/constitutive-modelling-cookbook) A reference book on constitutive modelling.
