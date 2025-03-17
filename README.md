@@ -24,7 +24,7 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
     Please feel free to contact me if you are interested in implementing your research work on suanPan. I am happy to collaborate in this regard.
 
-2. [motion-base](https://github.com/TLCFEM/motion-base) 🌏 A ground motion database
+2. [motion-base](https://github.com/TLCFEM/motion-base) 🌏 a ground motion database
 
 3. [ezp](https://github.com/TLCFEM/ezp) 🪢 lightweight C++ wrapper for selected ScaLAPACK solvers
 
@@ -32,9 +32,9 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
 5. [VPMR](https://github.com/TLCFEM/vpmr) 🥷 C++/Python implementation of the VPMR algorithm
 
-6. [Damping Dolphin](https://github.com/TLCFEM/damping-dolphin) 🐬 A utility to visualise and generate parameter sets for use in the damping model
+6. [Damping Dolphin](https://github.com/TLCFEM/damping-dolphin) 🐬 a utility to visualise and generate parameter sets for use in the damping model
 
-7. [Alcongrator](https://github.com/TLCFEM/alcongrator) 〰 A utility to generate ground motion history based on given records
+7. [Alcongrator](https://github.com/TLCFEM/alcongrator) 〰 a utility to generate ground motion history based on given records
 
 ## Books
 
