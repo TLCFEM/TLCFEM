@@ -26,7 +26,7 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
 2. [motion-base](https://github.com/TLCFEM/motion-base) 🌏 a ground motion database
 
-3. [ezp](https://github.com/TLCFEM/ezp) 🪢 lightweight C++ wrapper for selected ScaLAPACK solvers
+3. [ezp](https://github.com/TLCFEM/ezp) 🪢 lightweight C++ wrapper for selected distributed solvers
 
 4. [msglc](https://github.com/TLCFEM/msglc) 🗜️ (de)serialize json objects with lazy/partial loading containers using msgpack
 
