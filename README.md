@@ -34,7 +34,7 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
 6. [Damping Dolphin](https://github.com/TLCFEM/damping-dolphin) 🐬 a utility to visualise and generate parameter sets for use in the damping model
 
-7. [Alcongrator](https://github.com/TLCFEM/alcongrator) 〰 a utility to generate ground motion history based on given records
+7. [alcongrator](https://github.com/TLCFEM/alcongrator) 〰 a utility to generate ground motion history based on given records
 
 ## Books
 
