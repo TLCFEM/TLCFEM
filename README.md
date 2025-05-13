@@ -10,7 +10,7 @@ I am interested in the following computational mechanics related topics:
 
 1. couple stress theory
 2. phase field theory
-3. dynamics
+3. nonlinear dynamics
 4. contact and constraint
 5. topology optimisation
 6. constitutive modelling
