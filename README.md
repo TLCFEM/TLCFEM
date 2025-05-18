@@ -8,13 +8,13 @@
 
 I am interested in the following computational mechanics related topics:
 
-1. 📍 couple stress theory
-2. 📍 phase field theory
-3. 📍 nonlinear dynamics
-4. 📍 contact and constraint
-5. 📍 topology optimisation
-6. 📍 constitutive modelling
-7. 📍 finite element formulation
+* couple stress theory
+* phase field theory
+* nonlinear dynamics
+* contact and constraint
+* topology optimisation
+* constitutive modelling
+* finite element formulation
 
 Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_64x64.png" alt="ORCID logo" width="14"/>](https://orcid.org/0000-0002-4911-0230) if you wish.
 
