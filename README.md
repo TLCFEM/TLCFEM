@@ -22,7 +22,7 @@ Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/20
 
 1. [suanPan](https://github.com/TLCFEM/suanPan) 🧮 An Open Source, Parallel and Heterogeneous Finite Element Analysis Framework
 
-    Please feel free to contact me if you are interested in implementing your research work on suanPan. I am happy to collaborate in this regard.
+    Please feel free to request features if you are interested in implementing your research work in suanPan.
 
 2. [motion-base](https://github.com/TLCFEM/motion-base) 🌏 a ground motion database
 
