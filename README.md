@@ -18,9 +18,6 @@ I am interested in the following computational mechanics related topics:
 
 Check my [CV](CV.pdf) or [<img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_64x64.png" alt="ORCID logo" width="14"/>](https://orcid.org/0000-0002-4911-0230) if you wish.
 
-![tlcfem's Stats](https://github-readme-stats.vercel.app/api?username=tlcfem&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![tlcfem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tlcfem&theme=vue-dark&hide_border=true)
-
 ## Software
 
 1. [suanPan](https://github.com/TLCFEM/suanPan) 🧮 An Open Source, Parallel and Heterogeneous Finite Element Analysis Framework
@@ -62,3 +59,6 @@ The following repositories contain source code and example models of some public
 7. <img src="pics/mssp.gif" alt="mssp" height="20"/> [nonviscous-implementation](https://github.com/TLCFEM/nonviscous-implementation) A strategy for fast evaluation of nonviscously damped systems with arbitrary kernels [doi:10.1016/j.ymssp.2024.111156](https://doi.org/10.1016/j.ymssp.2024.111156)
 8. <img src="pics/ueqe.jpg" alt="ueqe" height="20"/> [dsp-dynamics](https://github.com/TLCFEM/dsp-dynamics) Spurious response due to linear interpolation of input load and some remedies [doi:10.1080/13632469.2024.2372814](https://doi.org/10.1080/13632469.2024.2372814)
 9. <img src="pics/am.png" alt="am" height="20"/> [subloading-implementation](https://github.com/TLCFEM/subloading-implementation) On the subloading surface model for metals: some insights and an efficient numerical implementation [doi:10.1007/s00707-025-04339-0](https://doi.org/10.1007/s00707-025-04339-0)
+
+![tlcfem's Stats](https://github-readme-stats.vercel.app/api?username=tlcfem&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![tlcfem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tlcfem&theme=vue-dark&hide_border=true)
