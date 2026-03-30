@@ -59,3 +59,15 @@ The following repositories contain source code and example models of some public
 7. <img src="pics/mssp.gif" alt="mssp" height="20"/> [nonviscous-implementation](https://github.com/TLCFEM/nonviscous-implementation) A strategy for fast evaluation of nonviscously damped systems with arbitrary kernels [doi:10.1016/j.ymssp.2024.111156](https://doi.org/10.1016/j.ymssp.2024.111156)
 8. <img src="pics/ueqe.jpg" alt="ueqe" height="20"/> [dsp-dynamics](https://github.com/TLCFEM/dsp-dynamics) Spurious response due to linear interpolation of input load and some remedies [doi:10.1080/13632469.2024.2372814](https://doi.org/10.1080/13632469.2024.2372814)
 9. <img src="pics/am.png" alt="am" height="20"/> [subloading-implementation](https://github.com/TLCFEM/subloading-implementation) On the subloading surface model for metals: some insights and an efficient numerical implementation [doi:10.1007/s00707-025-04339-0](https://doi.org/10.1007/s00707-025-04339-0)
+
+## Awesome FOSS
+
+This is my personal collection of excellent FOSS projects that I find extremely useful.
+
+1. [deskflow](https://github.com/deskflow/deskflow) A software K(V)M. Extremely useful to have a dual-monitor setup with two laptops.
+2. [localsend](https://github.com/localsend/localsend) Share things to other devices, best for sharing between PCs and phones. Imagination is the only limitation when combined with VPN!
+3. [rustdesk](https://github.com/rustdesk/rustdesk) Remote desktop, simple and reliable.
+4. [hotspot](https://github.com/KDAB/hotspot) GUI for `perf`, handy for quick profiling.
+5. [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) The only PDF reader you need, small, fast, no bloat.
+6. [pdfsam](https://github.com/torakiki/pdfsam) Merge, split, etc., PDF files with ease.
+7. [texstudio](https://github.com/texstudio-org/texstudio) A fully featured LaTeX editor. I have written countless pages with it.
