@@ -71,3 +71,4 @@ This is my personal collection of excellent FOSS projects that I find extremely 
 5. [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) The only PDF reader you need, small, fast, no bloat.
 6. [pdfsam](https://github.com/torakiki/pdfsam) Merge, split, etc., PDF files with ease.
 7. [texstudio](https://github.com/texstudio-org/texstudio) A fully featured LaTeX editor. I have written countless pages with it.
+8. [sharex](https://github.com/sharex/sharex) Easily capture and edit screenshots without any hassle!
