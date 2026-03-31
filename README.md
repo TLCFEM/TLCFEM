@@ -64,12 +64,13 @@ The following repositories contain source code and example models of some public
 
 This is my personal collection of excellent FOSS projects that I find extremely useful.
 
-1. [deskflow](https://github.com/deskflow/deskflow) A software K(V)M. Extremely useful to have a dual-monitor setup with two laptops.
-2. [localsend](https://github.com/localsend/localsend) Share things to other devices, best for sharing between PCs and phones. Imagination is the only limitation when combined with VPN!
-3. [rustdesk](https://github.com/rustdesk/rustdesk) Remote desktop, simple and reliable.
-4. [hotspot](https://github.com/KDAB/hotspot) GUI for `perf`, handy for quick profiling.
-5. [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) The only PDF reader you need, small, fast, no bloat.
-6. [pdfsam](https://github.com/torakiki/pdfsam) Merge, split, etc., PDF files with ease.
-7. [texstudio](https://github.com/texstudio-org/texstudio) A fully featured LaTeX editor. I have written countless pages with it.
-8. [sharex](https://github.com/sharex/sharex) Easily capture and edit screenshots without any hassle!
-9. [littlenavmap](https://github.com/albar965/littlenavmap) Best tool for flight simulation, cannot believe it is free.
+1. [deskflow](https://github.com/deskflow/deskflow) A software K(V)M solution. Very convenient for running a dual-monitor setup across two laptops.
+2. [localsend](https://github.com/localsend/localsend) A tool for transferring files between devices, especially useful for sharing between PCs and phones. When paired with a VPN, its possibilities expand significantly.
+3. [rustdesk](https://github.com/rustdesk/rustdesk) A straightforward and dependable remote desktop application.
+4. [hotspot](https://github.com/KDAB/hotspot) A graphical interface for `perf`, great for quick and efficient performance profiling.
+5. [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) A lightweight, fast, and no-frills PDF reader that covers all the essentials.
+6. [pdfsam](https://github.com/torakiki/pdfsam) A simple tool for merging, splitting, and managing PDF files.
+7. [texstudio](https://github.com/texstudio-org/texstudio) A comprehensive LaTeX editor, extremely capable for producing large volumes of documents.
+8. [sharex](https://github.com/sharex/sharex) A powerful yet easy-to-use tool for capturing and editing screenshots.
+9. [littlenavmap](https://github.com/albar965/littlenavmap) An outstanding, free navigation tool for flight simulation.
+10. [tailscale](https://github.com/tailscale/tailscale) A user-friendly VPN solution that eliminates the complexity of manual setup.
