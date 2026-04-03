@@ -74,3 +74,4 @@ This is my personal collection of excellent FOSS projects that I find extremely 
 8. [sharex](https://github.com/sharex/sharex) A powerful yet easy-to-use tool for capturing and editing screenshots.
 9. [littlenavmap](https://github.com/albar965/littlenavmap) An outstanding, free navigation tool for flight simulation.
 10. [tailscale](https://github.com/tailscale/tailscale) A user-friendly VPN solution that eliminates the complexity of manual setup.
+11. [qalculate!](https://github.com/Qalculate) Amazing calculator with enriched features.
