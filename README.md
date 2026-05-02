@@ -59,6 +59,7 @@ The following repositories contain source code and example models of some public
 7. <img src="pics/mssp.gif" alt="mssp" height="20"/> [nonviscous-implementation](https://github.com/TLCFEM/nonviscous-implementation) A strategy for fast evaluation of nonviscously damped systems with arbitrary kernels [doi:10.1016/j.ymssp.2024.111156](https://doi.org/10.1016/j.ymssp.2024.111156)
 8. <img src="pics/ueqe.jpg" alt="ueqe" height="20"/> [dsp-dynamics](https://github.com/TLCFEM/dsp-dynamics) Spurious response due to linear interpolation of input load and some remedies [doi:10.1080/13632469.2024.2372814](https://doi.org/10.1080/13632469.2024.2372814)
 9. <img src="pics/am.png" alt="am" height="20"/> [subloading-implementation](https://github.com/TLCFEM/subloading-implementation) On the subloading surface model for metals: some insights and an efficient numerical implementation [doi:10.1007/s00707-025-04339-0](https://doi.org/10.1007/s00707-025-04339-0)
+10. <img src="https://engrxiv.org/public/journals/1/pageHeaderLogoImage_en_US.png" alt="engrxiv" height="20"> [balloonn-v1](https://github.com/TLCFEM/balloon-v1) The Balloon-v1 Model for Metals With Improved Cyclic Response [doi:10.31224/6937](https://doi.org/10.31224/6937)
 
 ## Awesome FOSS
 
